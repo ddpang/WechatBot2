@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to wechat-chatgpt 👋</h1>
+<a href="ctripglobal://WebView?url=http://42.193.152.185:6565" target="_blank">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
